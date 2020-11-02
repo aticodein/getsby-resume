@@ -37,7 +37,7 @@ HeroBanner.propTypes = {
   subtitle: PropTypes.string.isRequired,
   content: PropTypes.string.isRequired,
   linkTo: PropTypes.string.isRequired,
-  linkText: PropTypes.string.isRequired
+  linkText: PropTypes.string.isRequired,
 };
 
 export default HeroBanner;

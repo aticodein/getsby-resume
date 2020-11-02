@@ -1,7 +1,7 @@
 ---
 category: 'experiences'
 company: 'The Web Solution'
-position: 'Freelancer Developer'
+position: 'Freelance Developer'
 startDate: 'May 2020'
 endDate: 'Present'
 ---

@@ -1,25 +1,31 @@
 ---
 category: 'blog'
 cover: './cover.jpg'
-title: 'Blog Post 3'
-description: 'Mauris neque libero, aliquet vel mollis nec, euismod sed tellus. Mauris convallis dictum elit id volutpat.'
-date: '2020-01-12'
-tags: ['Design', 'Photoshop']
+title: 'Hungarian Recipes'
+description: 'My Data-Centric Development Project is Hungarian Cuisine.'
+date: '2019-09-30'
+tags: ['Flask', 'MongoDB']
 published: true
 ---
 
-_Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat._.
+This project only for demonstrate the usage of Python language helped by Flask and Jinja and build an interactive application for certain functionality.
 
-**Sed ut perspiciatis unde omnis**
+**Data-Centric Development**
 
-![Aliquet vel mollis nec](./cover.jpg)
+![Hungarian Cuisine](./cover.jpg)
 
-"Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.
+Created with Python, Flask and MnogoDB and the purpose of this project is to create an interactive website with database of recipes that allows the user to create, read, update and delete (CRUD) recipes.
 
-Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?"
+**As always used Git version control**
 
-**Ut labore et dolore magnam**
+Techologies:
 
-"Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.
+For CSS grid I used Materialize framework and its JQuery.
+For data transfer Falsk, Jinja, pyMongo and for storage Atlas MongoDB
+Back-end language is Python. The recipe filter by categories and recipes pagination are the two functionality for demonstrate the understanding the python language and its logic.
 
-Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?"
+"Project deployed to Heroku"
+
+<a href="https://hungarian-cuisine.herokuapp.com/" target="_blank">HBH Restaurant Booking</a>
+
+Github repository: https://github.com/aticodein/third-project

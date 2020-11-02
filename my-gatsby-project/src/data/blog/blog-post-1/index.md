@@ -1,7 +1,7 @@
 ---
 category: 'blog'
 cover: './cover.jpg'
-title: 'Project 1'
+title: 'Restaurant Booking'
 description: 'Python3 Django project. Booking system for a hotel restaurant. Creating list of resrvations.'
 date: '2019-11-13'
 tags: ['Django']

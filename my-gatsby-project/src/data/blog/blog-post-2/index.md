@@ -1,25 +1,39 @@
 ---
 category: 'blog'
 cover: './cover.jpg'
-title: 'Project 2'
-description: 'Mauris neque libero, aliquet vel mollis nec, euismod sed tellus. Mauris convallis dictum elit id volutpat.'
-date: '2019-12-24'
-tags: ['JavaScript', 'React']
+title: 'Survivors of Titanic'
+description: 'JavaScript Dashboard Project'
+date: '2020-07-29'
+tags: ['JavaScript']
 published: true
 ---
 
-_Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat._.
+Titanic Passangers Data Dashboard
 
-**Sed ut perspiciatis unde omnis**
+**Hosted by Github**
 
-"Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.
+The page uses the D3.js library with the DC.js and crossfilter.js libraries to present the data via a series of bar and pie charts, keep the data analysis clear and simple.
 
-![Aliquet vel mollis nec](./cover.jpg)
+![JavaScript Dashboard Project](./cover.jpg)
 
-Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?"
+This is a single page dashboard represents the data of the passengers of the Titanic. Users can hover over and click on charts and selectors, to make their own selected groups and compare to an other group.
 
-**Sliquam quaerat voluptatems**
+**Technologies Used**
 
-"Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.
+HTML5 & CSS3
+HTML5 & CSS3 were used to create the layout and styling of this site
+Code validators were used to check for errors with the HTML and CSS
+AWS Cloud9
+Cloud9 IDE editor used to write the HTML, CSS and JavaScript.
+Bootswatch 3.4.0 (Spacelab
+JavaScript and selected external libraries have been used throughout this site, in the following ways:
+For the creation and manipulation of the data-visualization elements
+DC.js
+Crossfilter.js
+D3-queue.js was used to load files.
+jQuery was used to assist with DOM manipulation when resetting filters and showing / hiding selected sections.
+Font Awesome
 
-Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?"
+Github repository : https://github.com/aticodein/second-project
+
+Deployed Gihub Pages : https://aticodein.github.io/second-project/

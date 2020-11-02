@@ -1,25 +1,32 @@
 ---
 category: 'blog'
 cover: './cover.jpg'
-title: 'Blog Post 5'
-description: 'Mauris neque libero, aliquet vel mollis nec, euismod sed tellus. Mauris convallis dictum elit id volutpat.'
-date: '2020-02-03'
-tags: ['Mobile', 'React Native']
+title: 'Electromall'
+description: 'Full e-commerce website'
+date: '2020-04-03'
+tags: ['Python', 'Django']
 published: true
 ---
 
-_Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat._.
+E-commerce project deployed on Heroku and Stripe payment method integrated
 
-**Sed ut perspiciatis unde omnis**
+**Fullstack Django project**
 
-"Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.
+This project is an online webshop for electronics. Selected products held in shopping cart for one session. Login, logout authentication for shopping with stripe payments.
 
-![Aliquet vel mollis nec](./cover.jpg)
+![Electromall](./cover.jpg)
 
-Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?"
+A very simple presentation of a working webshop, easily attached to a technichal blog for introduce new products to readers. Its simplicity good for around 50 items easily browsing with category and pagination.
 
-**Nemo enim ipsam voluptatem**
+**Technologies Used**
 
-"Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.
+This project uses HTML, CSS, JavaScript and Python computer languages. JQuery, Bootstrap, Django frameworks. SQLite and AWS databases. Gitpod for developing, Github repositories for store code and Heroku deployment.
 
-Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?"
+AWS buckets stores data for Heroku
+Django with Python
+Back-end framework very useful inbuilt fetures specially Admin site.
+Gitpod cloud developing
+
+<a href="https://github.com/aticodein/django-milestone" target="_blank">Github Repository</a>
+
+<a href="https://milestone-4-django-project.herokuapp.com/" target="_blank">Electromall e-commerce website</a>

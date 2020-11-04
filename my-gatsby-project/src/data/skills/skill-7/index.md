@@ -1,5 +1,5 @@
 ---
 category: 'skills'
-title: 'Heroku'
+title: 'Python'
 percentage: 80
 ---

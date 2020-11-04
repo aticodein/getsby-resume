@@ -1,7 +1,7 @@
 ---
 category: 'newsletter section'
-title: 'Get in touch '
-subtitle: 'Requests'
+title: 'Contact Me'
+subtitle: 'Your inqueries'
 namePlaceholder: 'First Name'
 emailPlaceholder: 'Email'
 submitPlaceholder: 'Send'

@@ -28,11 +28,11 @@ const Newsletter = () => {
     <Styled.Newsletter>
       <Container section>
         <TitleSection title={newsletter.title} subtitle={newsletter.subtitle} center />
-        <Styled.Form netlify-honeypot="bot-field" name="contact" method="POST">
-          <input type="hidden" name="contact" value="contact" netlify></input>
-          <Styled.Input type="text" placeholder={newsletter.namePlaceholder} />
+        <Styled.Form netlify-honeypot="bot-field" name="contact" method="POST" netlify>
+          <Styled.Input type="hidden" name="form-name" value="contact" />
+          <Styled.Input type="text" placeholder={newsletter.namePlaceholder} required/>
           <Styled.Input type="email" placeholder={newsletter.emailPlaceholder} />
-          <Button primary block>
+          <Button primary block type="submit">
             {newsletter.submitPlaceholder}
           </Button>
         </Styled.Form>

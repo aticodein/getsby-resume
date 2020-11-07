@@ -28,7 +28,8 @@ const Newsletter = () => {
     <Styled.Newsletter>
       <Container section>
         <TitleSection title={newsletter.title} subtitle={newsletter.subtitle} center />
-        <Styled.Form netlify-honeypot="bot-field" netlify>
+        <Styled.Form netlify-honeypot="bot-field" name="contact" method="POST" data-netlify="true">
+          <input type="hidden" name="contact" value="contact"></input>
           <Styled.Input type="text" placeholder={newsletter.namePlaceholder} />
           <Styled.Input type="email" placeholder={newsletter.emailPlaceholder} />
           <Button primary block>

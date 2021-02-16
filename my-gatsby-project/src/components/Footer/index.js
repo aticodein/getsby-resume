@@ -21,6 +21,9 @@ const Footer = () => (
         <Styled.Link href="https://www.linkedin.com/in/attila-szaloki-9b205b36/" rel="noreferrer noopener" target="_blank">
           LinkedIn
         </Styled.Link>
+        <Styled.Link href="https://m.me/attila.szaloki" rel="noreferrer noopener" target="_blank">
+          Messenger
+        </Styled.Link>
       </Styled.Links>
     </Container>
   </Styled.Footer>

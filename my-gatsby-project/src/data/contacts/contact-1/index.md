@@ -1,6 +1,6 @@
 ---
 category: 'contact'
-title: 'Phone'
+title: 'Mobile No.'
 icon: 'phone'
 content: '+353 85 1222 982'
 ---

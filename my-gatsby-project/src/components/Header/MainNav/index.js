@@ -19,10 +19,7 @@ const mainNavItems = [
     title: 'Contact Me',
     slug: '/contact/'
   },
-  {
-    title: 'Contact Me',
-    slug: '/contact/'
-  }
+
 ];
 
 const MainNav = () => {

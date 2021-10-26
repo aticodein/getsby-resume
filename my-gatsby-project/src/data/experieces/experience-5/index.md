@@ -6,4 +6,4 @@ startDate: 'May 2020'
 endDate: 'Present'
 ---
 
-Currently working with small companies as Front-end Web Developer creating responsive websites. Technologies used: Django, React, Bootstrap, JavaScript, JQuery and AWS S3.
+Currently working with small companies as Front-end Web Developer creating responsive websites. Technologies used: Django, React, Redux, Bootstrap, JavaScript and AWS S3.

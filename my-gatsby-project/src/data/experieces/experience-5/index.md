@@ -1,9 +1,9 @@
 ---
 category: 'experiences'
-company: 'The Web Solution'
-position: 'Freelance Developer'
-startDate: 'May 2020'
+company: 'The Huntsmann Inn'
+position: 'Restaurant Manager'
+startDate: 'Jun 2021'
 endDate: 'Present'
 ---
 
-Currently working with small companies as Front-end Web Developer creating responsive websites. Technologies used: Django, React, Redux, Bootstrap, JavaScript and AWS S3.
+Restaurant Manager, organize floor staff, kitchen staff, and hotel staff to provide high quality food and uplifting experience to customers. 

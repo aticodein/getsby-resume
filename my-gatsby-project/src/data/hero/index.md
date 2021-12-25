@@ -2,7 +2,7 @@
 category: 'hero section'
 title: 'Full-stack  Developer'
 subtitle: 'I am Attila Szaloki'
-content: 'Designing, Building and managing a number of European wide clients projects. Complete Full-Stack website build along with associated services including social media and communications campaigns. Creative, flexible and supportive service with practical and strategic consultations.'
+content: 'As a Full-stack Developer looking forward to working as a member of a developer team in a tech company. I have experience in Front-end development UI/UX design and Back-end dev/deployment and data management CI/CD pipelines, Agile development, and CRUD method. Clean and standard reusable code writing, unit, and end to end testing.'
 linkTo: 'https://ati-ecommerce.s3.eu-west-1.amazonaws.com/CV/Attila+Szaloki+CV+2021+November.docx' 
 linkText: 'View My CV'
 ---

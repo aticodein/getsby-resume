@@ -1,6 +1,6 @@
 ---
 category: 'experiences'
-company: 'The Huntsmann Inn'
+company: 'The Huntsman Inn'
 position: 'Restaurant Manager'
 startDate: 'Jun 2021'
 endDate: 'Present'
